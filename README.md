@@ -1,5 +1,14 @@
-### Hi there 👋
-**Linguagens e Ferramentas:**  
+<img src="https://komarev.com/ghpvc/?username=mattos123" alt="xMarvel" />
+<br />                         
+- iam Python - PHP - JS - ReactJS - Node.js Developer <br />
+-  I’m currently learning Java  <br />
+- I’m looking for help with My public repositories (Read the source code. And you can help with Pull requests & issues) <br />
+-  Ask me about Anything [Here](https://t.me/The_ReaL_xMarveL). <br />
+-  How to reach me: You can contact me via Email or Social Media <br />
+
+
+
+**Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -13,19 +22,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattos123)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**mattos123/mattos123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattos123&show_icons=true&include_all_commits=true" alt="My github stats" />
+</a>
